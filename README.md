@@ -1,1 +1,7 @@
-# fc-desafio-docker-nginx
+# Desafio Docker
+
+Nginx com Node.js
+
+```
+docker-compose up -d
+```
